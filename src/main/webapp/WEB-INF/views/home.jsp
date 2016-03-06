@@ -5,11 +5,18 @@
 
   <body>  
      <div class="row">     
-        <div class="col-md-4"> 
+        <div class="col-md-6"> 
           <h3> 
-              Click and Learn </br>
+              ToDos & Features </br>
           </h3>
           <ul>
+            <li> ToDo 1 - User registration with Hibernate <br>
+            <a href="https://github.com/xeoman0/registration.git" target="blank">xeoman0/registration</a>
+            </li>
+            <li> ToDo 2 - Social Authentication </li>
+            <li> ToDo 3 - Try ThymeLeaf </li>
+            <li> ToDo 4 - Spring Boot </li>
+            <li> ToDo 5 - AngularJS </li>
             <li> Simple Ajax @Controller </li>
             <li> Mapping Requests </li>
             <li> Obtaining Request Data </li>
@@ -25,16 +32,17 @@
           <ul>                                
           </h3>           
         </div> 
-        <div class="col-md-8"> 
+        <div class="col-md-6"> 
           <h3> 
-              Next Steps? Read the code.</br>
+              Try the code.</br>
           </h3>    
 
           <ol>
             <li>Clone: <br/> <code> git clone https://github.com/xeoman0/spring-mvc-showcase.git </code> </li>
             <li>Build: <br/> <code> $ mvn clean install </code> </li>
             <li>Run: <br/>  <code> $ mvn jetty:run </code></li>
-            <li>See: <br/>  <code>http://localhost:8080/x/ </code> </li>                                
+            <li>See: <br/>  <code>http://localhost:8080/x </code> </li>
+            <li>Deploy: <br/>  <code>http://mydomain/x </code> </li>     
           </ol> 
           </h3>                             
         </div> 
