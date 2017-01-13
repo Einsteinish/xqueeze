@@ -2,6 +2,9 @@
 # Spring Bootstrap MVC, v.4 [http://xqueeze.com/x/]
 Site sample
 
+# Tutorials
+[http://www.bogotobogo.com/Java/tutorials/Spring-Boot/Spring-Boot-Maven3-Elicpse-Tomcat-War-file.php] Spring Boot : Deploying War file to Tomcat 8's webapps
+
 # spring-mvc-showcase
 spring mvc with twitter bootstrap - showcase
 
