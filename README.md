@@ -1,3 +1,7 @@
+
+# Spring Bootstrap MVC, v.4 [http://xqueeze.com/x/]
+Site sample
+
 # spring-mvc-showcase
 spring mvc with twitter bootstrap - showcase
 
